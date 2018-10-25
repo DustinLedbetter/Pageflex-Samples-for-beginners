@@ -1,0 +1,14 @@
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\MyPickList\bin\Debug\MyPickList.dll
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\MyPickList\bin\Debug\MyPickList.pdb
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\MyPickList\bin\Debug\StorefrontExtension.dll
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\MyPickList\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\MyPickList\obj\Debug\MyPickList.dll
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\MyPickList\obj\Debug\MyPickList.pdb
+C:\Users\v22186\Desktop\Extensions\Samples\MyPickList\obj\Debug\MyPickList.csproj.CoreCompileInputs.cache
+C:\Users\v22186\Desktop\Extensions\Samples\MyPickList\bin\Debug\MyPickList.dll
+C:\Users\v22186\Desktop\Extensions\Samples\MyPickList\bin\Debug\MyPickList.pdb
+C:\Users\v22186\Desktop\Extensions\Samples\MyPickList\bin\Debug\StorefrontExtension.dll
+C:\Users\v22186\Desktop\Extensions\Samples\MyPickList\obj\Debug\MyPickList.csprojAssemblyReference.cache
+C:\Users\v22186\Desktop\Extensions\Samples\MyPickList\obj\Debug\MyPickList.csproj.CopyComplete
+C:\Users\v22186\Desktop\Extensions\Samples\MyPickList\obj\Debug\MyPickList.dll
+C:\Users\v22186\Desktop\Extensions\Samples\MyPickList\obj\Debug\MyPickList.pdb

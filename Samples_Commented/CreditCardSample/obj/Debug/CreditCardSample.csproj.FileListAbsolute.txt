@@ -1,0 +1,6 @@
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\CreditCardSample\bin\Debug\CreditCardSample.dll
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\CreditCardSample\bin\Debug\CreditCardSample.pdb
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\CreditCardSample\bin\Debug\StorefrontExtension.dll
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\CreditCardSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\CreditCardSample\obj\Debug\CreditCardSample.dll
+C:\Documents and Settings\V06883\Desktop\Extensions\Samples\CreditCardSample\obj\Debug\CreditCardSample.pdb
